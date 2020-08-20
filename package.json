@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@codeinkit/flows": "^1.0.8",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.7.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.1",
